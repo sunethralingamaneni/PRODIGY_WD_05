@@ -25,14 +25,6 @@ This project is part of my **Web Development Internship at Prodigy InfoTech**. I
 - **Error Handling** – Managing invalid city names and geolocation permission issues.  
 - **Geolocation API** – Implementing location-based weather updates.  
 
-##  How to Run  
-1. Clone this repository:  
-   ```bash
-
-   ![image](https://github.com/user-attachments/assets/22033b9f-4b5d-4917-8358-3b9ed1ed1569)
+ ![image](https://github.com/user-attachments/assets/22033b9f-4b5d-4917-8358-3b9ed1ed1569)
    ![image](https://github.com/user-attachments/assets/d31406ce-dd5f-4e7f-984e-acde9b4ff3bb)
    ![image](https://github.com/user-attachments/assets/cb262ead-ea10-44f9-8d50-043608e28347)
-
-
-
-   git clone https://github.com/your-username/weather-app.git
